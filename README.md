@@ -1,4 +1,4 @@
-# python-cafe-app with Mohit Soni (mohitsoniv)
+# python-cafe-app by Mohit Soni (mohitsoniv)
 ## 1. Create a docker image
 ```
 docker build -t my-cafe-app:menu .
